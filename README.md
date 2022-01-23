@@ -1,1 +1,1 @@
-# Memory_Game_Demo
+Color Memory Game written in Javascript
