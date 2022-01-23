@@ -62,7 +62,6 @@ function createDivsForColors(colorArray) {
   }
 }
 
-// TODO: Implement this function!
 function handleCardClick(event) {
   // you can use event.target to see which element was clicked
   if (noClicking) return;
